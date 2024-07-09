@@ -1,0 +1,26 @@
+.div{
+    background-color: aliceblue;
+    width: 900px;
+    margin: auto;
+
+}
+.card{
+  /* width: 100%; */
+  /* max-width: 250px; */
+  height: auto;
+  border-radius: 8px;
+  margin: 20px 20px;
+}
+.card{
+    box-shadow: 0 0 10px;
+    margin: 0px 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.div3{
+    margin: 0 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left: 20px;
+}
